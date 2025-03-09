@@ -1,0 +1,10 @@
+{
+  "nodeModulesDir": "auto",
+  "imports": {
+    "@std/path": "jsr:@std/path@1",
+    "vite": "npm:vite",
+    "@tailwindcss/vite": "npm:@tailwindcss/vite",
+    "tailwindcss": "npm:tailwindcss",
+    "daisyui": "npm:daisyui@^5.0.0"
+  }
+}
